@@ -1,6 +1,3 @@
-# Now give me a detailed poc for this i need very detailed with remembering all the different use cases .Need the best report possible .Even a layman should understand .Give it in a .md format
-
-```markdown
 # Proof-of-Concept (PoC)  
 ## **“Zero-Failure” Key Rotation on Azure**  
 
@@ -288,7 +285,6 @@ No human can forget, leak or break the key ever again—exactly the behaviour se
 *Coffee time! ☕*
 
 ---
-```
 
 
 ### References
